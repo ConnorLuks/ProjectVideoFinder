@@ -25,4 +25,4 @@ yarn-error.log*
 
 
 # added visible for now
-node_module
+node_modules
